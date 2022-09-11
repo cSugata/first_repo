@@ -1,2 +1,3 @@
 # first_repo
-git workshop demo repository
+# git workshop demo repository
+# krkf
